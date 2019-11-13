@@ -1,0 +1,23 @@
+{
+  "name": "ushell-module-redis",
+  "version": "0.0.1",
+  "description": "Unix like shell module for redis.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-redis.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "system",
+    "infomation"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-redis/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-redis#readme"
+}
